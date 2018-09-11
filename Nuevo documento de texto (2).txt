@@ -1,0 +1,6 @@
+
+git initi                         cunado se crea un folder por primera vez
+git congig -l 			  cuando quieres ves usuario y correo saber quien esta activado
+git status			  para saber el estado de los documentos
+git commit -m "mesaje"		  para un mesaje descriptivo
+
